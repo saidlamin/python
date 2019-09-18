@@ -11,7 +11,7 @@ print
 # 5. change 987 to 789 using indexing only najib
 # 6 change the name "john" to jane - alex
 
-print(type (tasklist))
+print(type(tasklist))
 print(tasklist)
 print(tasklist[2][2]["currency"])
 print(len(tasklist))
